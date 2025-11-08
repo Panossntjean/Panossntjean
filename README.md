@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I m a student in National and Kapodistrian University of Athens , in the department of physics . I study in the CONTROL AND COMPUTING courses from INTERDEPARTMENTAL Masters PROGRAM of the University.
+
+All my work included from my undergraduated studies is here also. 
+Been working in a variety of projects from software to hardware and in a combination of those two.
+
+
